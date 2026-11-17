@@ -1,0 +1,6 @@
+{
+  "name": "1Way Land Services",
+  "description": "Land clearing, tree and brush removal, dirt work, site preparation, landscaping, lot clearing, and hauling in Pell City, AL and along the I-20 corridor from Birmingham to Oxford.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
